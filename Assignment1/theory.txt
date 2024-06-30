@@ -1,0 +1,14 @@
+#What is Emmet?
+>Basically abrevation that help to create nested structures for e.g - h1>li make a h1 inside it a li
+
+#diff betweem Library and Framework
+>Library and framework are both codes writen by someone else and we use them in our code.
+>the main difference in both is library is something that easy to use like we dont have to learn syntax specially as it does not hardly require us to do so like jQuery  whereas Framework have a less this and have to learn its way and write our code in a specific way like React.
+
+#What is CDN (here PoP is point of Presence)
+>it is content Delivery Netword and it help to reduce bandwith and time for User leading to better performance. In this the original server have more pop attached to it(here prop is server) and each prop store cache. When a user tries to interact with website, he is redirected to its closer server and interact through cache like if cache has info that user is demamnding, if not he is directed to main server. Modern CDN now can convert static content to more optiomized content.
+#Why CDN -> better than traditional and enchance user exprerince leading to better engagement
+
+#why React is known as React?
+>AS it makes the page reactive 
+
